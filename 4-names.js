@@ -4,8 +4,9 @@ const secret = "SUPER SECRET";
 const john = "john";
 const peter = "peter";
 
-console.log(module);
+// console.log(module);
 
 module.exports = { john, peter };
 
-console.log(module);
+// 이후 {john,peter}가 추가된 것을 볼 수 있다.
+// console.log(module);

@@ -9,11 +9,11 @@
 console.log(__dirname);
 console.log(__filename);
 // console.log("Require has the Resolve");
-console.log(require);
+// console.log(require);
 // console.log("module is info about current file");
-console.log(module);
+// console.log(module);
 // process has a lot of object
-console.log(process);
+// console.log(process);
 
 //
 setInterval(() => {
